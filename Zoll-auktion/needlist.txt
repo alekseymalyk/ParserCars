@@ -1,0 +1,14 @@
+ссылка
+Бренд
+Модель
+Тип транспортного средства
+Первая регистрация
+Пробег
+Тип топлива
+Тип привода
+Трансмиссия
+Цвет
+Обивка/цвет
+Количество дверей
+
+{url: , brand: , model: ,vehicle_type: , registration: ,mileage: ,fuel_type: ,type_drive: ,transmission: ,color: ,upholstery: ,number_doors: }
